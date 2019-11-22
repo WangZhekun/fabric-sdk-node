@@ -9,6 +9,8 @@ This project publishes the following npm packages:
 * `fabric-network` - This package encapsulates the APIs to connect to a Fabric network, submit transactions and perform queries against the ledger at a higher level of abstraction than through the `fabric-client`.
 * `fabric-protos` - This package encapsulates the protobuffers that are used to communicate over gRPC
 
+基于1.4版本（release-1.4），为本项目添加部分文档的翻译
+
 ## Build and Test
 To build and test, the following pre-requisites must be installed first:
 * node runtime LTS version 10
