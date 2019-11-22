@@ -11,6 +11,8 @@ This project publishes three separate npm packages:
 
 The following section targets a current or future contributor to this project itself.
 
+基于1.4版本（release-1.4），为本项目添加部分文档的翻译
+
 ### Build and Test
 To build and test, the following pre-requisites must be installed first:
 * Node.js, version 8 is supported from 8.9.4 and higher.
